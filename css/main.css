@@ -1,0 +1,16 @@
+header {
+    height: 200px;
+    background-image: url(../img/0_I-sI3u34g0ydRqyA.png);
+    color: aliceblue;
+    
+}
+section {
+    margin: 30px;
+}
+.ancor {
+    margin: 1px;
+    background-color: lightcoral;
+    padding: 10px 150px;
+    color: aliceblue;
+    border-radius: 5px;
+}
